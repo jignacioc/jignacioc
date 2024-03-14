@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**jignacioc/jignacioc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center">¡Hola! Soy Joaquín Clark :)</h1>
+<h3 align="center">Apasionado estudiante de informática residente en Chile.</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +10,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">Languages and Tools:</h3>

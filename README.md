@@ -6,8 +6,7 @@
 - 🌱 Actualmente estudiando PHP
 - 👯 Buscando colaborar en proyectos python
 - 🤔 Buscando crecer profesional y personalmente!
-- 📫 ¿Como contactarme? 
-- 😄 Pronouns: he/his
+- 📫 ¿Como contactarme?: Mi whatsapp está en mi portafolio :D
 - ⚡ Apasionado por los videojuegos!
   
 <h3 align="left">Lenguajes y herramientas: </h3>

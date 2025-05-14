@@ -1,11 +1,10 @@
 <h1 align="center">¡Hola!👋, soy Joaquín Clark =)</h1>
-<h3 align="center">Apasionado estudiante de informática de Chile.</h3>
+<h3 align="center">Apasionado ingeniero en informática de Chile.</h3>
 
 - 🌐 Visita mi portafolio WEB: <a href="https://jignacioc.pythonanywhere.com/">¡Clickeame!</a>
-- 🔭 En busca de mi primera experiencia laboral :)
-- 🌱 Actualmente estudiando PHP
+- 🔭 Buscando crecer profesional y personalmente!
+- 🌱 Actualmente trabajo como Backend Developer
 - 👯 Buscando colaborar en proyectos Python
-- 🤔 Buscando crecer profesional y personalmente!
 - 📫 ¿Como contactarme?: joaquinignacioclark@gmail.com o clickea aquí: <a href="https://wa.me/+56948813772">Whatsapp</a>.
 - ⚡ Apasionado por los videojuegos!
   

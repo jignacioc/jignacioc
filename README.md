@@ -3,7 +3,7 @@
 
 - 🌐 Visita mi portafolio WEB: <a href="https://jignacioc.pythonanywhere.com/">¡Clickeame!</a>
 - 🔭 Buscando crecer profesional y personalmente!
-- 🌱 Actualmente trabajo como Backend Developer
+- 🌱 Actualmente trabajo como DevOps + Backend Developer
 - 👯 Buscando colaborar en proyectos Python
 - 📫 ¿Como contactarme?: joaquinignacioclark@gmail.com o clickea aquí: <a href="https://wa.me/+56948813772">Whatsapp</a>.
 - ⚡ Apasionado por los videojuegos!
